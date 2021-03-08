@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "Mateus" : {
+        "capitulos":[
+           {
+              "número":1,
+              "texto" : "A genealogia de Jesus Cristo"
+           }
+        ],
+        "versiculos":[
+           {
+              "número":1,
+              "Texto": "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão."
+           },
+           {
+              "número":2,
+              "Texto": "Abraão gerou a Isaque; Isaque, a Jacó; Jacó, a Judá e a seus irmãos;"
+           }
+        ]
+    }
+}

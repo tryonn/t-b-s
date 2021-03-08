@@ -1,0 +1,20 @@
+{
+    "novo_testamento":{
+       "total_livros":27
+    },
+    "Grupos":{
+       "evangelhos":{
+          "total":4
+       },
+       "Atos dos Apóstolos":{
+           "total":1
+       },
+       "Epistolas":{
+           "total": 21
+       },
+       "Apocalipse":{
+           "total": 1
+       }
+
+    }
+ }
