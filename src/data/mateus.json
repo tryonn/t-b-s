@@ -1,21 +1,125 @@
 {
     "id": 1,
     "Mateus" : {
-        "capitulos":[
+        "capitulo":[
            {
-              "número":1,
-              "texto" : "A genealogia de Jesus Cristo"
+              "idCapitulo":1
+           }
+        ],
+        "tema_assunto":[
+           {
+            "idCapitulo":1,
+            "idTitulo": 1,
+            "titulo" : "A genealogia de Jesus Cristo"
+           },
+           {
+            "idCapitulo":1,
+            "idTitulo": 2,
+            "titulo": "O Nascimento de Jesus Cristo."
            }
         ],
         "versiculos":[
            {
-              "número":1,
-              "Texto": "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão."
+            "idTitulo": 1,
+              "numero":1,
+              "texto": "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão."
            },
            {
-              "número":2,
-              "Texto": "Abraão gerou a Isaque; Isaque, a Jacó; Jacó, a Judá e a seus irmãos;"
-           }
+            "idTitulo": 1,
+              "numero":2,
+              "texto": "Abraão gerou a Isaque; Isaque, a Jacó; Jacó, a Judá e a seus irmãos;"
+           },
+           {
+            "idTitulo": 1,
+            "numero":3,
+            "texto": "Judá gerou de Tamar a Perez e a Zera; Perez gerou a Esrom; Esrom, a Arão;"
+            },           
+           {
+            "idTitulo": 1,
+              "numero":4,
+              "texto": "Arão gerou a Aminadabe; Aminadabe, a Naassom; Naassom, a Salmom;"
+           },
+           {
+            "idTitulo": 1,
+            "numero":5,
+            "texto": "Salmom gerou de Raabe a Boaz; este, de Rute, gerou a Obede; e Obede, a Jessé;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":6,
+               "texto": "Jessé gerou ao rei Davi; e o rei Davi, a Salomão, da que fora mulher de Urias;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":7,
+               "texto": "Salomão gerou a Roboão, Roboão, a Abias; Abias a Asa;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":8,
+               "texto": "Asa gerou a Josafá; Josafá, a Jorão; Jorão, a Uzias;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":9,
+               "texto": "Uzias gerou a Jotão; Jotão, a Acaz; Acaz, a Ezequias;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":10,
+               "texto": "Ezequias gerou a Manassés; Manassés, a Amom; Amom, a Josias;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":11,
+               "texto": "Josias gerou a Jeconias e a seus irmãos, no tempo do exílio na Babilônia."
+            },
+            {
+               "idTitulo": 1,
+               "numero":12,
+               "texto": "Depois do exílio na Babilônia, Jeconias gerou a Salatiel; e Salatiel, a Zorobabel;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":13,
+               "texto": "Zorobabel gerou a Abiúde; Abiúde, a Eliaquim; Eliaquim, a Azor;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":14,
+               "texto": "Azor gerou a Sadoque; Sadoque, a Aquim; Aquim, a Eliúde;"
+            },
+            {
+               "idTitulo": 1,
+               "numero":15,
+               "texto": "Eliúde gerou a Eleazar; Eleazar, a Matã; Matã, a Jacó."
+            },
+            {
+               "idTitulo": 1,
+               "numero":16,
+               "texto": "E Jacó gerou a José, marido de Maria, da qual nasceu Jesus, que se chama o Cristo."
+            },
+            {
+               "idTitulo": 1,
+               "numero":17,
+               "texto": "De sorte que todas as gerações, desde Abraão até Davi, são catorze; desde Davi até ao exílio na Babilônia, catorze e desde o exílio na Babilônia até Cristo Jesus, catorze."
+            },
+            {
+               "idTitulo": 2,
+               "numero":18,
+               "texto": "Ora, o nascimento de Jesus Cristo foi assim: estando Maria, sua mãe, desposada com José, sem que tivessem antes coabitado, achou-se grávida pelo Espírito Santo."
+            },
+            {
+               "idTitulo": 2,
+               "numero":19,
+               "texto": "Mas José, seu esposo, sendo justo e não a querendo infamar, resolveu deixá-la secretamente."
+            },
+            {
+               "idTitulo": 2,
+               "numero":20,
+               "texto": "Enquanto ponderava nestas coisas, eis que lhe apareceu, em sonho, um anjo do Senhor, dizendo: José, filho de Davi, não temas receber Maria, tua mulher, porque o que nela foi gerado é do Espírito Santo."
+            }
+            
         ]
     }
 }
